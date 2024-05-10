@@ -7,7 +7,7 @@ So that, they can understand their customers and grow more sales next year.
 
 
 
-Project Insights :
+**Project Insights :**
 
 1.Women are more likely to buy compared to men (65%).
 2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (35%).
@@ -15,7 +15,7 @@ Project Insights :
 4. Amanzon , Flipkart and Myntra channels are max contributing.(80%).
 
 
-
-Conclusion :
+**
+Conclusion :**
 Target Women Customers of age group (30-49yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing 
 ads/offers/coupons available on Amanzon , Flipkart and Myntra.
